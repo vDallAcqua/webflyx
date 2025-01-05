@@ -4,7 +4,11 @@
 - "When Is A Gift Not A Gift?"
 - "The spice must flow."
 <<<<<<< HEAD
+<<<<<<< HEAD
 - "Fear is the mind-killer."
 
 =======
 >>>>>>> 28facc9 (H: change dune.md)
+=======
+- "Fear it the mind-killer"
+>>>>>>> 58af2ce (I: change dune.md)
